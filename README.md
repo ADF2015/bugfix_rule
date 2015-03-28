@@ -12,13 +12,12 @@ APPLICATION DEVELOPER FESTIVALに参加している学生
 ## 競技時間
 - 10:00 ~ 13:00
 - 途中参加可能
-- 競技時間中に競技会場でフェリカで登録してください
+- 競技時間中に競技会場で FeliCa で登録してください
 - 競技時間中であれば、どのタイミングでも構いません
 
 ## Slackのチャンネル
-参加者に必要な連絡事項は、slackの#bugfixで行います。
+参加者に必要な連絡事項は、Slackの#bugfixで行います。
 参加者は必ずこのチャネルに入るようにしてください。
-
 
 ## 競技ルール
 - 個人戦とする
@@ -30,7 +29,7 @@ APPLICATION DEVELOPER FESTIVALに参加している学生
 - 各ジャンルのレポジトリを参照してください
 
 ## 解答の提出方法
-- 13:00までにslack上で、各ジャンルごとに提出してください
+- 13:00までにSlack上で、各ジャンルごとに提出してください
 - 提出はzipで固めて提出してください
 - 提出先アカウントは、
 	- iOS [@nonchalant](https://adf2015.slack.com/team/nonchalant)
@@ -63,7 +62,7 @@ Front | [bugfix_problem_front](https://github.com/ADF2015/bugfix_problem_front)
 Backend | [bugfix_problem_backend](https://github.com/ADF2015/bugfix_problem_backend)
 
 ## 質問など
-- slack上で気軽に質問してください
+- Slack上で気軽に質問してください
 - それぞれのジャンルについては解答の提出方法にのっているアカウントに質問をしてください
 - 出題者がコンテンツ会場に常駐していますので、直接の質問も受け付けます
 - BugFix全体に関しての質問があれば [@saso](https://adf2015.slack.com/team/saso)に聞いてください
